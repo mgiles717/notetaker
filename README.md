@@ -1,5 +1,9 @@
 # Notetaker CLI
 
+pure vibe coded.
+
+might wanna change the data dir if you are using this, I keep my Notes in my root, so this works for me.
+
 A simple command-line note-taking tool with an interactive file browser.
 
 ## Features
