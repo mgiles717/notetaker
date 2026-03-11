@@ -38,9 +38,9 @@ notetaker
 - Use **arrow keys** to navigate
 - Press **Enter** to select a file/directory
 - When a file is selected, press **Enter** to open in nvim or **d** to delete
-- Select **[+] Create New Note** to create a new markdown file
-- Select **[D] Create New Directory** to create a new folder
-- Select **[Q] Quit** to exit
+- Select **[n] Create New Note** to create a new markdown file
+- Select **[d] Create New Directory** to create a new folder
+- Select **[q] Quit** to exit
 
 ## Notes Directory
 
